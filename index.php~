@@ -29,8 +29,8 @@ class Group_Leaders{
         /**
          * Facebook Settings
          */
-        $this -> appId = '';
-        $this -> secret = '';
+        $this -> appId = '330088920437121';
+        $this -> secret = 'e90b58818623ff4ea5952f34ba4e2296';
 
         /**
          * Initialize Facebook Object
